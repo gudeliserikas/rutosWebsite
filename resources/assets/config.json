@@ -9,8 +9,8 @@
     ]
   },
   "publicPath": "/app/themes/sage",
-  "devUrl": "http://localhost/rutosWebsite",
-  "proxyUrl": "http://localhost:3000/rutosWebsite",
+  "devUrl": "https://localhost/rutosWebsite",
+  "proxyUrl": "https://localhost:3000/rutosWebsite",
   "cacheBusting": "[name]_[hash:8]",
   "watch": [
     "app/**/*.php",
